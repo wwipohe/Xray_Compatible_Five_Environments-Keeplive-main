@@ -7,7 +7,7 @@ UUID=${UUID:-'e9e8b1db-7a73-4b7b-ad10-b491e9c12a3a'}
 # 其他Paas保活
 PAAS1_URL=https://4kqy6l-3000.csb.app
 PAAS2_URL=https://app-wwipohe.cloud.okteto.net
-PAAS3_URL=
+PAAS3_URL=https://test0607-px3umtri.b4a.run
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
