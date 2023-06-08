@@ -2,11 +2,11 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'d7b78201-ce99-4a64-9ccd-a0e87af33453'}
+UUID=${UUID:-'e9e8b1db-7a73-4b7b-ad10-b491e9c12a3a'}
 
 # 其他Paas保活
-PAAS1_URL=https://app-wwipohe.cloud.okteto.net 
-PAAS2_URL=https://test0607-px3umtri.b4a.run
+PAAS1_URL=
+PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
@@ -17,8 +17,8 @@ KOYEB_ACCOUNT=
 KOYEB_PASSWORD=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH='{"AccountTag":"f69bf3cd59bdc8f8709369e03e7ace8b","TunnelSecret":"UhYRz359CzqG9r7SZVIK17xbjqiJCTmVR7ExRVtcHNM=","TunnelID":"ba6764ca-dc41-4b11-beaa-612a780853b5"}'
-ARGO_DOMAIN=pps.cmkjgfh.cf
+ARGO_AUTH='{"AccountTag":"e49d669c0a5c59d2ea3440928ef5401d","TunnelSecret":"7JoAoi4spTW9p7yGsdv+xbluNQgarFtj6yvzTQU6fxg=","TunnelID":"c580efc9-2674-4756-98bc-fef29332b310"}'
+ARGO_DOMAIN=vh.ynjbsdf.tk
 
 generate_config() {
   cat > config.json << EOF
