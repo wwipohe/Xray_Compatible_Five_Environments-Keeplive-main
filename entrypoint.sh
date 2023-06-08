@@ -5,8 +5,8 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'e9e8b1db-7a73-4b7b-ad10-b491e9c12a3a'}
 
 # 其他Paas保活
-PAAS1_URL=
-PAAS2_URL=
+PAAS1_URL=https://4kqy6l-3000.csb.app
+PAAS2_URL=https://app-wwipohe.cloud.okteto.net
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
